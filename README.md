@@ -11,4 +11,4 @@
 
     The following animation demonstrates the application functionality:
 
-    ![Work Day Scheduler] (https://github.com/rh9891/WorkDayScheduler/blob/master/images/Work%20Day%20Scheduler.gif)
+![Work Day Scheduler](https://github.com/rh9891/WorkDayScheduler/blob/master/images/Work%20Day%20Scheduler.gif)
