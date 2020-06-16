@@ -1,0 +1,42 @@
+.display-4, .lead {
+    text-align: center;
+}
+
+
+textarea {
+    background-color: transparent;
+}
+
+i {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-color: grey;
+}
+
+button.col-6.col-sm-1 {
+    background: lightseagreen;
+}
+
+section.col-6.col-sm-1 {
+    font-size: 20px;
+    font-family: 'Special Elite', cursive;
+    text-align: center;
+    padding-top: 20px;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-right-style: solid;
+    border-color: grey;
+}
+
+main {
+    padding-bottom:100px;
+}
+
+h1, h2 {
+    font-family: 'Special Elite', cursive;
+}
+
+h4.currentDate {
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+}
