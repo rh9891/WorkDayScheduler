@@ -77,4 +77,4 @@ If you would like to contribute to this repository, please contact me via [Githu
 
 ## Questions
 
-If you have any questions, comments, or issues regarding this application, please do not hesitate to contact me through [Github](https://github.com/rh9891).
+If you have any questions, comments, or issues regarding this application, please do not hesitate to contact me via [Github](https://github.com/rh9891).
